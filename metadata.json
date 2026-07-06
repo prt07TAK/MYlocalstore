@@ -1,0 +1,6 @@
+{
+  "name": "My Local Store",
+  "description": "A hyperlocal marketplace with an AI shopping assistant for Indian villages and towns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
