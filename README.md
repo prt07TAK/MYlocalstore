@@ -12,7 +12,7 @@ It pairs a fully **offline-first** shopping experience with a **Gemini-powered A
 
 Accessibility is a first-class citizen, not an afterthought: every profile carries an age bracket that automatically resizes text, buttons, and contrast for comfort, and the entire experience — onboarding, AI chat, checkout, everything — is available in **English and Hindi**.
 
-> Built and scaffolded with **Google AI Studio**, powered by the **Gemini API**.
+
 
 ### The problem
 
